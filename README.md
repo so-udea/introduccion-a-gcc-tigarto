@@ -235,8 +235,14 @@ int edad_en_meses(int anios){
 
 Una vez reponda las preguntas realizar el respectivo commit.
 
+### Enlaces de interes ###
 
-
+1. https://www.thegeekstuff.com/2011/10/c-program-to-an-executable/
+2. https://www.thegeekstuff.com/2011/10/c-program-to-an-executable/
+3. https://www.ibm.com/developerworks/aix/library/au-unixtools.html
+4. https://jlospinoso.github.io/developing/software/software%20engineering/reverse%20engineering/assembly/2015/03/06/reversing-with-ida.html
+5. https://www.perspectiverisk.com/intro-to-basic-disassembly-reverse-engineering/
+6. https://www.thegeekstuff.com/2012/03/linux-nm-command/
 
 
 
